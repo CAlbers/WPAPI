@@ -1,0 +1,27 @@
+{
+  "name": "woodenplankapi",
+  "version": "1.0.0",
+  "description": "First try at a js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAlbers/WPAPI.git"
+  },
+  "keywords": [
+    "API",
+    "JS"
+  ],
+  "author": "Christiaan Albers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAlbers/WPAPI/issues"
+  },
+  "homepage": "https://github.com/CAlbers/WPAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
